@@ -34,7 +34,7 @@ and show the result in each case side by side for better judgement
 
 
 **Train_test_split :**
-Through Train test split we can set how much % we can take as a test set**
+Through Train test split we can set how much % we can take as a test set
 As example : Train_test_split = 0.2 means we want 20% data as our test data
 
 **Random state :**
